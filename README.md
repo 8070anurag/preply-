@@ -1,1 +1,1 @@
-This is Preply Site Clone
+This is Preply Site 
